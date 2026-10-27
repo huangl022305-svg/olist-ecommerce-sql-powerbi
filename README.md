@@ -33,7 +33,7 @@ Using **PostgreSQL**, I integrated six relational tables, performed SQL-based an
 
 ## 3. Power BI Dashboards
 
-### Dashboard 1 — Sales Performance Overview
+### Dashboard 1 — Sales Performance Overview ![Sales Performance Dashboard](screenshots/sales_overview.png)
 
 The Sales Overview dashboard provides an overview of the company's historical sales performance.
 
@@ -49,7 +49,7 @@ São Paulo generated approximately **R$5.1 million** in merchandise sales, makin
 
 Health & Beauty was the highest-revenue product category, generating approximately **R$1.23 million**.
 
-### Dashboard 2 — Delivery Performance & Customer Experience
+### Dashboard 2 — Delivery Performance & Customer Experience ![Delivery and Customer Experience Dashboard](screenshots/delivery_customer_experience.png)
 
 This dashboard examines delivery reliability and its relationship with customer satisfaction.
 
